@@ -12,4 +12,4 @@
 
 ## How to use
 ```bash
-python3 wordpress_enumeration.py <target-url.com>```
+python3 wordpress_enumeration.py <target-url.com>
