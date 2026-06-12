@@ -1,5 +1,5 @@
 # WordPress REST API Enumeration tool.
-![wp demo](wp-result.png)
+![wp demo](wp-result-one.png)
 ## created by **x3bdulaziz**
 
 > [!WARNING]
