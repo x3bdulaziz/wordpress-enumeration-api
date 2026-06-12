@@ -11,5 +11,10 @@
 > Example: `http://10.114.171.189` or `https://example.com`
 
 ## How to use
+## Installation
+```bash
+pip3 install requests
+
+## Run the script form your terminal
 ```bash
 python3 wordpress_enumeration.py <target-url.com>
