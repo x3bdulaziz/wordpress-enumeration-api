@@ -14,7 +14,10 @@
 ## Installation
 ```bash
 pip3 install requests
+```
+
 
 ## Run the script form your terminal
+
 ```bash
 python3 wordpress_enumeration.py <target-url.com>
